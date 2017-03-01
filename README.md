@@ -1,3 +1,2 @@
 # python
-python的练习项目
-###python3.
+python3的练习项目
