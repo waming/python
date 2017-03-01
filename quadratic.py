@@ -1,3 +1,5 @@
+# -*- coding:utf-8 -*-
+
 import math
 #求解一元2次方程
 def quadratic(a, b, c):
